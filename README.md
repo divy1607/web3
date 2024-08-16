@@ -27,10 +27,10 @@ Follow the instructions below to set up the project on your local machine.
    cd decentralized-chat-app
 
 2. **Install Dependencies**
-
+   ```bash
    npm install
 
 ### Run the Application**
-
+   ```bash
    npm run dev
 
