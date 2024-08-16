@@ -30,7 +30,7 @@ Follow the instructions below to set up the project on your local machine.
    ```bash
    npm install
 
-### Run the Application**
+### Run the Application
    ```bash
    npm run dev
 
