@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Decentralized Chat Application
+
+Welcome to the Decentralized Chat Application! This project is built using Next.js, TypeScript, and Ethers.js. It allows users to connect their Ethereum wallet via MetaMask and engage in decentralized peer-to-peer chat.
+
+## Features
+
+- **Decentralized Chat:** Peer-to-peer chat without relying on centralized servers.
+- **Blockchain Integration:** Connect with Ethereum blockchain using MetaMask.
+- **TypeScript:** Full TypeScript support for type safety.
+- **Next.js:** Built on top of Next.js for modern React features and server-side rendering.
 
 ## Getting Started
 
-First, run the development server:
+Follow the instructions below to set up the project on your local machine.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Node.js**: Make sure you have Node.js installed. You can download it from [Node.js](https://nodejs.org/).
+- **MetaMask**: You'll need the MetaMask browser extension installed and set up.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. **Clone the Repository**
 
-## Learn More
+   ```bash
+   git clone https://github.com/divy1607/web3.git
+   cd decentralized-chat-app
 
-To learn more about Next.js, take a look at the following resources:
+2. **Install Dependencies**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   npm install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Run the Application**
 
-## Deploy on Vercel
+   npm run dev
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
